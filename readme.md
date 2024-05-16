@@ -12,30 +12,34 @@ I'm a versatile developer who touches a bit of everything, but I specialize in w
 
 ![Profile views](https://komarev.com/ghpvc/?username=pierre-krob&color=blue)
 
-## Rapidfire  
+## What I'm Up To
+
+### Completed Projects
+- 📱 **[Summoners' Codex](https://github.com/PierreKROB/Doc-LoL-Android)**: An Android app documentation tool for League of Legends.
+
+### Ongoing Projects
+- ⚛️ **Basic Template for React App**: Developing a boilerplate template for React applications.
+- 🛠️ **GitHub Changelog Module for React App**: Creating a module to manage and display changelogs in React applications.
+
+<br/>
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Basic Template for React App]
-  
+### Current Learning
+- 🌱 **Kotlin**
+- 🌱 **Unity**
+- 🌱 **C#**
 
-- 🌱 I’m currently learning **Kotlin, Unity, C#**  
-  
-
-- 👨‍💻 [WorkInProgress] All of my projects are available at [eligoal.com](https://eligoal.com) 
-  
-
-- 📫 How to reach me krobpierre0@gmail.com
-
+### Contact Me
+- 📫 How to reach me: krobpierre0@gmail.com
 
 </td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://i.imgur.com/u1rJcPQ.gif" align="center" style="width: 100%" />
-</div>  
+</div>
 
-
-</td></tr></table>  
+</td></tr></table>
 
 <br/>  
 
