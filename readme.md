@@ -16,7 +16,7 @@ I'm a versatile developer who touches a bit of everything, but I specialize in w
 
 ### Completed Projects
 - 📱 **[Summoners' Codex](https://github.com/PierreKROB/Doc-LoL-Android)**: An Android app documentation tool for League of Legends.
-- - ⚛️ **Basic Template for React App**: Developing a boilerplate template for React applications.
+- ⚛️ **Basic Template for React App**: Developing a boilerplate template for React applications.
 <br/>
   ``` npm i react-diar ```
 
