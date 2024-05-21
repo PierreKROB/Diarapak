@@ -16,7 +16,7 @@ I'm a versatile developer who touches a bit of everything, but I specialize in w
 
 ### Completed Projects
 - 📱 **[Summoners' Codex](https://github.com/PierreKROB/Doc-LoL-Android)**: An Android app documentation tool for League of Legends.
-- 🛠️ **GitHub Changelog Module for React App**: Creating a module to manage and display changelogs in React applications.
+- 🛠️ **GitHub Changelog Module for React App**: Creating a module to manage and display changelogs in React applications. <br/>
   ``` npm i react-diar ```
 
 ### Ongoing Projects
